@@ -17,7 +17,7 @@ def breed
 end
 
 def breed=(breed)
-@breed = Breed
+@breed = breed
 end
 
 
